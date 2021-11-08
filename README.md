@@ -1,6 +1,5 @@
 
-##  Olá... Eu sou  Leonardo Araújo 
-<strong>Front-End.</strong> 
+##  Olá... Eu sou  Leonardo Araújo <strong><br> Front End</strong></br>
 <div align = "center">
   <a href="https://github.com/rafaballerini">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=leonardoarauju7&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
